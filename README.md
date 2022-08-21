@@ -1,7 +1,7 @@
 #  Portfolio
 # i-amaditya Portfolio
 
-The template for building an ICS Portfolio.
+The template for building an personal Portfolio.
 This repository hosts a technical portfolio built using [i-amaditya](https://github.com/i-amaditya/Portfolio.git). 
 
 # Installation and use in a nutshell
