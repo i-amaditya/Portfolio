@@ -2,7 +2,7 @@
 # i-amaditya Portfolio
 
 The template for building an personal Portfolio.
-This repository hosts a technical portfolio built using [i-amaditya](https://github.com/i-amaditya/Portfolio.git). 
+This repository hosts a technical portfolio built using [i-amaditya](https://i-amaditya.github.io/Portfolio/). 
 
 # Installation and use in a nutshell
 
